@@ -64,20 +64,15 @@ Certifique-se de ter o **Flutter SDK** instalado e configurado. Se ainda não o 
 2.  O aplicativo será compilado e aberto automaticamente no seu navegador web padrão.
 3.  **Para obter o link da versão web**, simplesmente copie o URL da barra de endereços do navegador que abriu o aplicativo.
 
-## 📸 Screenshots
+## 📸 Vídeo
 
-*(Aqui você deve inserir as capturas de tela do seu aplicativo para demonstrar suas funcionalidades. É crucial ter essas imagens para o seu README.)*
-
-**Tela Principal do Conversor**
-[Image of Tela Principal do Aplicativo Conversor de Moedas]
-*Exibe os campos de entrada, seletores de moeda, botão de conversão e o resultado.*
+https://github.com/user-attachments/assets/381eaa7e-d07a-4743-a952-64bb1cc62ea5
 
 ---
 
-## 🔗 Links Relevantes
+## 🔗 Link versão web
 
 * **Link para testar a versão web:** `[COLOQUE O LINK DA SUA VERSÃO WEB AQUI]`
-* **Link do Vídeo Demonstrativo:** `[COLOQUE O LINK DO SEU VÍDEO NO YOUTUBE/VIMEO AQUI]`
 
 ---
 
