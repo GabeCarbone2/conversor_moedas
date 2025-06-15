@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/381eaa7e-d07a-4743-a952-64bb1cc62ea5
 
 ## 🔗 Link versão web
 
-* **Link para testar a versão web:** `[COLOQUE O LINK DA SUA VERSÃO WEB AQUI]`
+* **Link para testar a versão web:**: https://ubiquitous-syrniki-6ca068.netlify.app
 
 ---
 
