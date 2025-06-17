@@ -1,22 +1,22 @@
-# Conversor de Moedas 💱
+# Conversor de Moedas 
 
 Um aplicativo Flutter simples e funcional para converter valores entre diferentes moedas (USD, EUR, BRL). Ideal para quem precisa de conversões rápidas no dia a dia.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * **Conversão Rápida:** Converta facilmente um valor de uma moeda para outra.
 * **Seleção Intuitiva:** Escolha as moedas de origem e destino através de menus suspensos amigáveis.
 * **Interface Limpa:** Design simples e direto ao ponto para uma experiência de usuário eficiente.
 * **Validação de Entrada:** Verifica se o valor inserido é válido antes de realizar a conversão.
 
-## 📦 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 * **Flutter:** O framework de UI de código aberto da Google para construir aplicativos compilados nativamente para mobile, web e desktop a partir de um único código-fonte.
 * **Dart:** A linguagem de programação otimizada para o desenvolvimento rápido de aplicativos em qualquer plataforma, ideal para o Flutter.
 
-## ⚙️ Como Configurar e Rodar
+##  Como Configurar e Rodar
 
 Siga estas instruções passo a passo para configurar e rodar o projeto em sua máquina local.
 
@@ -64,13 +64,13 @@ Certifique-se de ter o **Flutter SDK** instalado e configurado. Se ainda não o 
 2.  O aplicativo será compilado e aberto automaticamente no seu navegador web padrão.
 3.  **Para obter o link da versão web**, simplesmente copie o URL da barra de endereços do navegador que abriu o aplicativo.
 
-## 📸 Vídeo
+## Vídeo
 
 https://github.com/user-attachments/assets/381eaa7e-d07a-4743-a952-64bb1cc62ea5
 
 ---
 
-## 🔗 Link versão web
+##  Link versão web
 
 * **Link para testar a versão web:**: https://ubiquitous-syrniki-6ca068.netlify.app
 
